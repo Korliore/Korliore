@@ -1,7 +1,7 @@
 <h1 align="center"> 💞 Приветствую в моём профиле 💞 </h1>
 <br>
 <p align="center">
-<img alt="anime" width="500" src="https://otkritkis.com/wp-content/uploads/2022/07/g4wh6.gif">
+<img algt="stat" src="https://raw.githubusercontent.com/Korliore/animation_logo/master/github_stats.svg?token=GHSAT0AAAAAACL4PL54JOTOEHGNQFIWACPAZPCWIDA">
 </p>
 <div align="left">
 
