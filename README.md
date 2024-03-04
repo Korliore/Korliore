@@ -34,9 +34,7 @@
 ---
             
 ### Связь со мной 📫
-
-<img alt="Static Badge" src="https://img.shields.io/badge/korliore-blue?logo=telegram&link=https%3A%2F%2Ft.me%2FKorliore">
-<img alt="Static Badge" src="https://img.shields.io/badge/%D0%9C%D0%BE%D0%B9%20%D1%82%D0%B3%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-blue?logo=telegram&link=https%3A%2F%2Ft.me%2Fitishechka21">
+<a href="https://t.me/korliore" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/korliore-blue?logo=telegram&link=https%3A%2F%2Ft.me%2FKorliore"></a>
 
 ---
 <p align="center">
